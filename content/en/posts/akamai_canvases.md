@@ -1,7 +1,8 @@
 ---
-title: "Akamai's canvases"
-description: Akamai uses two canvases. What are their purpose?
+title: Akamai's canvases
 date: 2022-03-07T21:51:36+01:00
+image: https://archzine.fr/wp-content/uploads/2016/01/image-de-chaton-trop-mignon-chatons-mignons-asleep.jpg
+description: Akamai uses two canvases. What are their purpose?
 draft: false
 ---
 
